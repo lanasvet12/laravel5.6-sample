@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello Heroku World!
+                    Its great Laravel World!
                 </div>
 
                 <div class="links">
